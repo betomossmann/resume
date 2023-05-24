@@ -18,7 +18,7 @@
 ## Skills
 
 
-> **FrontEnd:**
+> **Front-End:**
 * Typescript
 * ReactJS
 * React Native
@@ -31,19 +31,19 @@
 * Responsive Design (Mobile First)
 
 
-> **BackEnd:**
+> **Back-End:**
 * NodeJS
 * Software Testing
 * Object-Oriented Programming
 
 
-> **Banco de Dados:**
+> **Database:**
 * MongoDB
 * Firebase
 * PostgreSQL
 
 
-> **Infrastructure**
+> **Infrastructure:**
 * Docker
 * Render
 * Heroku
@@ -53,11 +53,11 @@
 
 
 > **Others:**
+* Scrum/Kanban
+* SEO Knowledge
 * Design Patterns *(MVC)*
 * Version Control System *(git)*
-* SEO Knowledge
 * Software Design and Architecture Knowledge
-* Scrum/Kanban
 
 ---
 

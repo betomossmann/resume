@@ -53,11 +53,11 @@
 
 
 > **Outros:**
+* Scrum/Kanban
+* Conhecimento em SEO
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
-* Conhecimento em SEO
 * Conhecimento em Design e Arquitetura de Software
-* Scrum/Kanban
 
 ---
 
@@ -97,7 +97,7 @@
 * **Curso** - JavaScript Funcional e Reativo PENSE como um Desenvolvedor JavaScript
 * **Curso** - React + Redux Fundamentos e Duas Apps do Absoluto Zero
 * **Curso** - Bootcamp GoStack 11
-* **Curso** - CReact Js + Next Js Completo do Básico ao Avançado
+* **Curso** - ReactJs + NextJs Completo do Básico ao Avançado
 * **Curso** – ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID
 * **Curso** – NodeJs Avançado com TDD, Clean Architecture e Typescript
 * **Curso** – NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID

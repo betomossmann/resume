@@ -98,9 +98,9 @@
 * **Curso** - React + Redux Fundamentos e Duas Apps do Absoluto Zero
 * **Curso** - Bootcamp GoStack 11
 * **Curso** - ReactJs + NextJs Completo do Básico ao Avançado
-* **Curso** – ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID
-* **Curso** – NodeJs Avançado com TDD, Clean Architecture e Typescript
-* **Curso** – NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID
-* **Curso** – ProgramadorBr Web Full Stack
-* **Curso** – Formação Node JS
-* **Curso** – Dart Lang do Básico ao Avançado + Api Rest
+* **Curso** - ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID
+* **Curso** - NodeJs Avançado com TDD, Clean Architecture e Typescript
+* **Curso** - NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID
+* **Curso** - ProgramadorBr Web Full Stack
+* **Curso** - Formação Node JS
+* **Curso** - Dart Lang do Básico ao Avançado + Api Rest

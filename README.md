@@ -96,10 +96,10 @@
 * **Course** - Functional and Reactive JavaScript: THINK like a JavaScript Developer
 * **Course** - React + Redux Fundamentals and Two Apps from Scratch
 * **Course** - GoStack 11 Bootcamp
-* **Course** - Complete React Js + Next Js from Basic to Advanced
-* **Course** – ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID
-* **Course** – Advanced NodeJs with TDD, Clean Architecture, and TypeScript
-* **Course** – NodeJs, TypeScript, TDD, DDD, Clean Architecture, and SOLID
-* **Course** – ProgramadorBr Web Full Stack
-* **Course** – Node JS Formation
-* **Course** – Dart Lang from Basic to Advanced + Rest API
+* **Course** - Complete ReactJs + NextJs from Basic to Advanced
+* **Course** - ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID
+* **Course** - Advanced NodeJs with TDD, Clean Architecture, and TypeScript
+* **Course** - NodeJs, TypeScript, TDD, DDD, Clean Architecture, and SOLID
+* **Course** - ProgramadorBr Web Full Stack
+* **Course** - Node JS Formation
+* **Course** - Dart Lang from Basic to Advanced + Rest API

@@ -43,11 +43,12 @@
 * PostgreSQL
 
 
-> **Infra**
+> **Infra:**
 * Docker
 * Render
 * Heroku
 * Serviços AWS
+* Apache, NGINX
 * Continuous Deployment
 * Continuous Integrations
 

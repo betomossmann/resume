@@ -5,8 +5,6 @@
 
 **Location:** Novo Hamburgo/RS - Brasil
 
-**Phone:** +55 (51) 99325-1928
-
 **E-mail:** gilbertomossmann@gmail.com
 
 **Linkedin:** [https://linkedin.com/in/gilbertomossmann/](https://linkedin.com/in/gilbertomossmann/)

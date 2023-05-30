@@ -30,8 +30,14 @@
 
 <br/>
 
-> 2020/Present - **Bdev** 
-* Responsible for developing software efficiently, reusable, and reliable. As a frontend developer, I work with Javascript/Typescript, React, NextJS on projects with micro frontends and libraries. On the backend, I work with Node and PostgreSQL.
+> ## Founder and Full Stack Developer, May 2020/Current - **BDev** 
+**Since 2020, I have been working at BDev, a creative agency dedicated to developing strategies and actions for businesses, with a focus on innovation, communication, and design.**
+
+* Responsible for developing software efficiently, in a reusable and reliable way. As a frontend developer, I work with Javascript/Typescript, React, Next JS in projects with micro frontends and libraries.
+
+* For the backend, I work with NodeJS and postgres. I frequently work with AWS services.
+
+* Help the product owner specify the key features and best user experience for the platform.
 
 <br/>
 

@@ -13,51 +13,27 @@
 
 ---
 
-## Skills
+## About
 
+  **With experience in web development since 2020, I have created several applications that have positively impacted users, using data metrics to achieve high retention rates and provide the best experience.**
 
-> **Front-End:**
-* Typescript
-* ReactJS
-* React Native
-* NextJS
-* Webpack
-* Software Testing
-* HTML5/CSS3
-* CSS-in-JS
-* Tailwind CSS
-* Responsive Design (Mobile First)
+<br/>
 
+> ## Professional Experience
 
-> **Back-End:**
-* NodeJS
-* Software Testing
-* Object-Oriented Programming
+* **Personal Projects**
+1. As a hobby, I create portfolio boilerplates to exercise creativity and practice coding.
 
+2. Creation and collaboration on open-source projects.
 
-> **Database:**
-* MongoDB
-* Firebase
-* PostgreSQL
+3. Creation of various projects using React, NextJS, TypeScript, NodeJS...
 
+<br/>
 
-> **Infrastructure:**
-* Docker
-* Render
-* Heroku
-* AWS Services
-* Continuous Deployment
-* Continuous Integration
+> 2020/Present - **Bdev** 
+* Responsible for developing software efficiently, reusable, and reliable. As a frontend developer, I work with Javascript/Typescript, React, NextJS on projects with micro frontends and libraries. On the backend, I work with Node and PostgreSQL.
 
-
-> **Others:**
-* Scrum/Kanban
-* SEO Knowledge
-* Design Patterns *(MVC)*
-* Version Control System *(git)*
-* Software Design and Architecture Knowledge
-
----
+<br/>
 
 > ## Additional Information
 
@@ -71,17 +47,52 @@
 
 ---
 
-> ## Professional Experience
+## Skills
 
-* **Personal Projects**
-1. As a hobby, I create portfolio boilerplates to exercise creativity and practice coding.
+> **Front-End:**
+* Typescript
+* ReactJS
+* React Native
+* NextJS
+* Webpack
+* Software Testing
+* HTML5/CSS3
+* CSS-in-JS
+* Tailwind CSS
+* Responsive Design (Mobile First)
 
-2. Creation and collaboration on open-source projects.
+<br/>
 
-3. Creation of various projects using React, NextJS, TypeScript, NodeJS...
+> **Back-End:**
+* NodeJS
+* Software Testing
+* Object-Oriented Programming
 
-> 2020/Present - **Bdev** 
-* Responsible for developing software efficiently, reusable, and reliable. As a frontend developer, I work with Javascript/Typescript, React, NextJS on projects with micro frontends and libraries. On the backend, I work with Node and PostgreSQL.
+<br/>
+
+> **Database:**
+* MongoDB
+* Firebase
+* PostgreSQL
+
+<br/>
+
+> **Infrastructure:**
+* Docker
+* Render
+* Heroku
+* AWS Services
+* Continuous Deployment
+* Continuous Integration
+
+<br/>
+
+> **Others:**
+* Scrum/Kanban
+* SEO Knowledge
+* Design Patterns *(MVC)*
+* Version Control System *(git)*
+* Software Design and Architecture Knowledge
 
 ---
 
@@ -94,7 +105,7 @@
 * **Course** - Functional and Reactive JavaScript: THINK like a JavaScript Developer
 * **Course** - React + Redux Fundamentals and Two Apps from Scratch
 * **Course** - GoStack 11 Bootcamp
-* **Course** - Complete ReactJs + NextJs from Basic to Advanced
+* **Course** - ReactJs + NextJs from Basic to Advanced
 * **Course** - ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID
 * **Course** - Advanced NodeJs with TDD, Clean Architecture, and TypeScript
 * **Course** - NodeJs, TypeScript, TDD, DDD, Clean Architecture, and SOLID

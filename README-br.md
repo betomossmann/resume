@@ -13,8 +13,46 @@
 
 ---
 
-## Competências
 
+## Sobre
+
+  **Com experiência em desenvolvimento web desde 2020, criei diversas aplicações que impactaram
+  positivamente os usuários, utilizando métricas de dados para alcançar elevadas taxas de retenção e
+  proporcionar a melhor experiência.**
+
+<br/>
+
+> ## Experiência Profissional
+
+* **Projetos Pessoais**
+1. Como hobby, crio boilerplates portfolio para exercer a criatividade e praticar código.
+
+2. Criação e colaboração em projetos open source.
+
+3. Criação de diversos projetos utilizando React, NextJS, TypeScript, NodeJS...
+
+<br/>
+
+> 2020/Present - **Bdev** 
+* Responsável por desenvolver software de forma eficiente, reutilizável e confiável. Como frontend trabalho utilizando Javascript/Typescript, React, NextJS em projetos com micro frontends e bibliotecas. Pelo backend trabalho utilizando node, com postgres.
+
+<br/>
+
+> ## Informações adicionais
+
+* Olhar crítico sobre o produto e busca por melhorias sistêmicas.
+* Valorizo a qualidade e a organização do código.
+* Tenho facilidade e interesse contínuo em aprender e melhorar habilidades.
+* Gosto de compartilhar meu conhecimento.
+* Sou criativo e capaz de pensar fora da caixa.
+* Determinação e responsabilidade.
+* Trabalho bem em equipes e valorizo as contribuições.
+
+<br/>
+
+---
+
+## Competências
 
 > **Front-End:**
 * Typescript
@@ -28,18 +66,21 @@
 * Tailwind CSS
 * Responsive Design (Mobile First)
 
+<br/>
 
 > **Back-End:**
 * NodeJS
 * Testes de software
 * Programação Orientada à Objeto
 
+<br/>
 
 > **Banco de Dados:**
 * MongoDB
 * Firebase
 * PostgreSQL
 
+<br/>
 
 > **Infra:**
 * Docker
@@ -50,6 +91,7 @@
 * Continuous Deployment
 * Continuous Integrations
 
+<br/>
 
 > **Outros:**
 * Scrum/Kanban
@@ -57,33 +99,6 @@
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
 * Conhecimento em Design e Arquitetura de Software
-
----
-
-> ## Informações adicionais
-
-* Olhar crítico sobre o produto e busca por melhorias sistêmicas.
-* Valorizo a qualidade e a organização do código.
-* Tenho facilidade e interesse contínuo em aprender e melhorar habilidades.
-* Gosto de compartilhar meu conhecimento.
-* Sou criativo e capaz de pensar fora da caixa.
-* Determinação e responsabilidade.
-* Trabalho bem em equipes e valorizo as contribuições.
-
----
-
-> ## Experiência Profissional
-
-* **Projetos Pessoais**
-1. Como hobby, crio boilerplates portfolio para exercer a criatividade e praticar código.
-
-2. Criação e colaboração em projetos open source.
-
-3. Criação de diversos projetos utilizando React, NextJS, TypeScript, NodeJS...
-
-> 2020/Present - **Bdev** 
-* Responsável por desenvolver software de forma eficiente, reutilizável e confiável. Como frontend trabalho utilizando Javascript/Typescript, React, NextJS em projetos com micro frontends e bibliotecas. Pelo backend trabalho utilizando node, com postgres.
-
 
 ---
 

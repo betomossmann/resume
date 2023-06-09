@@ -16,9 +16,7 @@
 
 ## Sobre
 
-  **Com experiência em desenvolvimento web desde 2020, criei diversas aplicações que impactaram
-  positivamente os usuários, utilizando métricas de dados para alcançar elevadas taxas de retenção e
-  proporcionar a melhor experiência.**
+  **Desenvolvedor full-stack com sólida experiência em frontend e backend. Especializado em JavaScript, TypeScript, React.js e Node.js, com expertise em boas práticas, testes e versionamento de código. Valorizo qualidade, organização e busca por melhorias sistêmicas. Sou um aprendiz contínuo, compartilho conhecimentos e busco impactar positivamente os usuários, priorizando performance e segurança.**
 
 <br/>
 
@@ -35,18 +33,13 @@
 
 > ## Fundador e Desenvolvedor Full Stack, Maio 2020/Atual - **BDev** 
 
-**Desde 2020, atuo na BDev, uma casa criativa que se dedica a desenvolver estratégias e ações para
-negócios, com ênfase em inovação, comunicação e design.**
+**Desde 2020, atuo na BDev, uma casa criativa que se dedica a desenvolver estratégias e ações para negócios, com ênfase em inovação, comunicação e design.**
 
-* Responsável por desenvolver software de forma eficiente, reutilizável e confiável. Como
-frontend trabalho utilizando Javascript/Typescript, React, Next JS em projetos com micro
-frontends e bibliotecas.
+* Responsável por desenvolver software de forma eficiente, reutilizável e confiável. Como frontend trabalho utilizando Javascript/Typescript, React, Next JS em projetos com micro frontends e bibliotecas.
 
-* Pelo backend trabalho utilizando NodeJS com postgres. Trabalho com frequência nos
-serviços da AWS.
+* Pelo backend trabalho utilizando NodeJS com postgres. Trabalho com frequência nos serviços da AWS.
 
-* Ajudar o proprietário do produto a especificar os principais recursos e a melhor experiência
-do usuário para a plataforma.
+* Ajudar o proprietário do produto a especificar os principais recursos e a melhor experiência do usuário para a plataforma.
 
 
 <br/>

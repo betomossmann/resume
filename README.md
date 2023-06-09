@@ -15,7 +15,7 @@
 
 ## About
 
-  **With experience in web development since 2020, I have created several applications that have positively impacted users, using data metrics to achieve high retention rates and provide the best experience.**
+  **Full-stack developer with a strong background in frontend and backend. Specialized in JavaScript, TypeScript, React.js, and Node.js, with expertise in best practices, testing, and code versioning. I value quality, organization, and a continuous pursuit of systemic improvements. I am a lifelong learner, enthusiastic about sharing knowledge, and strive to positively impact users, prioritizing performance and security.**
 
 <br/>
 

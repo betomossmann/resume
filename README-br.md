@@ -37,7 +37,7 @@
 
 * Responsável por desenvolver software de forma eficiente, reutilizável e confiável. Como frontend trabalho utilizando Javascript/Typescript, React, Next JS em projetos com micro frontends e bibliotecas.
 
-* Pelo backend trabalho utilizando NodeJS com postgres. Trabalho com frequência nos serviços da AWS.
+* Responsável por fazer integração com APIs de terceiros utilizando recursos mais avançados do Typescript, NodeJs, Postgres, TypeORM e seguindo as melhores metodologias do mercado, Design Patterns, Clean Architecture, DDD e TDD, Test Driven Development, Clean Code, Programação Orientada a Objetos, SOLID Principles. Trabalho com frequência nos serviços da AWS.
 
 * Ajudar o proprietário do produto a especificar os principais recursos e a melhor experiência do usuário para a plataforma.
 

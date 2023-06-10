@@ -35,7 +35,7 @@
 
 * Responsible for developing software efficiently, in a reusable and reliable way. As a frontend developer, I work with Javascript/Typescript, React, Next JS in projects with micro frontends and libraries.
 
-* For the backend, I work with NodeJS and postgres. I frequently work with AWS services.
+* Responsible for integrating with third-party APIs using advanced features of Typescript, NodeJs, Postgres, TypeORM, and following the best practices in the market such as Design Patterns, Clean Architecture, DDD, TDD, Clean Code, Object-Oriented Programming, and SOLID Principles. I frequently work with AWS services.
 
 * Help the product owner specify the key features and best user experience for the platform.
 
